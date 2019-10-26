@@ -63,6 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\FreeDraw\Scripts\Drawable.cs" />
+    <Compile Include="Assets\FreeDraw\Scripts\DrawingSettings.cs" />
     <Compile Include="Assets\MyFolder\Scripts\Move.cs" />
     <Compile Include="Assets\MyFolder\Scripts\nube.cs" />
     <Compile Include="Assets\MyFolder\Scripts\poisson.cs" />
@@ -70,7 +72,7 @@
     <Compile Include="Assets\MyFolder\Scripts\win.cs" />
     <Compile Include="Assets\VoxelAnimals\Assets\Scripts\PlayerController.cs" />
     <None Include="Assets\VoxelAnimals\Documentation\ReadMe.txt" />
-    <None Include="Assets\2D_Pixel_Art_Isometric_Blocks_Devils_Garage_v04\readme.txt" />
+    <None Include="Assets\prefabricados\readme.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Juan/Desktop/proyectos/hackathon/Hackaton-UniAndes/Carvajal_hack/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
